@@ -10,7 +10,7 @@ I'm El Mehdi El Ansary.<br>A 20-year-old student at 1337 school in Morocco. I'm 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hi0ki&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=hi0ki&theme=github_dark_dimmed&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hi0ki&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hi0ki&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hi0ki&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)

@@ -8,7 +8,7 @@ Hey there! I'm **El Mehdi El Ansary** <br/> A 20-year-old student at 1337 school
 ## 📬 Reach Out To Me
 You can find me here:
 
-<a href="https://linkedin.com/in/el-mehdi-el-ansary-253b05326"><img src="[https://img.shields.io/badge/Let's_Connect-%230077B5.svg?style=for-the-badge](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqRT_v4ZAz8Dycy-qPy_EUGo-5afRiZZ4o_w&s&logo=linkedin&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqRT_v4ZAz8Dycy-qPy_EUGo-5afRiZZ4o_w&s)"/></a>
+<a href="https://linkedin.com/in/el-mehdi-el-ansary-253b05326"><img src="https://img.shields.io/badge/Let's_Connect-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 # 💻 Tech Arsenal
 <p>

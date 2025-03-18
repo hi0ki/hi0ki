@@ -8,7 +8,7 @@ Hey there! I'm **El Mehdi El Ansary** <br/> A 20-year-old student at 1337 school
 ## 📬 Reach Out To Me
 You can find me here:
 
-**[LinkedIn](https://www.linkedin.com/in/el-mehdi-el-ansary-253b05326/) • [Email](mailto:mehdi.elansary@gmail.com)**
+**[LinkedIn](https://www.linkedin.com/in/el-mehdi-el-ansary-253b05326/)
 
 # 💻 Tech Arsenal
 <p>

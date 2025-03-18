@@ -34,7 +34,7 @@ You can find me here:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hi0ki&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hi0ki&theme=gitdimmed&column=7)
+![](https://github-profile-trophy.vercel.app/?username=hi0ki&theme=darkhub&no-frame=false&no-bg=true&margin-w=4&column=7&rank=SSS,SS,S,AAA,AA,A,B,C)
 
 <hr>
 

@@ -1,7 +1,8 @@
 # 💫 About Me:
 I'm El Mehdi El Ansary.<br>A 20-year-old student at 1337 school in Morocco. I'm focused on the study and practice of computer science.
-
-
+<br/>
+[![eel-ansa's 42 stats](https://badge.mediaplus.ma/landscapes/eel-ansa)](https://github.com/oakoudad/badge42)
+<br/>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hi_ki_00) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/el-mehdi-el-ansary-253b05326) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehdi.elansary@gmail.com) 
 
@@ -25,4 +26,3 @@ I'm El Mehdi El Ansary.<br>A 20-year-old student at 1337 school in Morocco. I'm 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![eel-ansa's 42 stats](https://badge.mediaplus.ma/landscapes/eel-ansa)](https://github.com/oakoudad/badge42)

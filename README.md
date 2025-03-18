@@ -6,7 +6,7 @@ Hey there! I'm **El Mehdi El Ansary** - a 20-year-old code enthusiast at 1337 sc
 [![eel-ansa's 42 stats](https://badge.mediaplus.ma/landscapes/eel-ansa)](https://github.com/oakoudad/badge42)
 
 ## 📬 Let's Connect
-<a href="https://linkedin.com/in/el-mehdi-el-ansary-253b05326"><img src="https://img.shields.io/badge/Let's_Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/el-mehdi-el-ansary-253b05326/"><img src="https://img.shields.io/badge/Let's_Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mehdi.elansary@gmail.com"><img src="https://img.shields.io/badge/Drop_Me_A_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 # 💻 Tech Arsenal
@@ -26,14 +26,14 @@ Hey there! I'm **El Mehdi El Ansary** - a 20-year-old code enthusiast at 1337 sc
 
 # ⚡ Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=hi0ki&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" alt="GitHub Stats" />
-  
-<img src="https://nirzak-streak-stats.vercel.app/?user=hi0ki&theme=github_dark_dimmed&hide_border=true&stroke=0000" alt="GitHub Streak" />
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi0ki&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+![](https://github-readme-stats.vercel.app/api?username=hi0ki&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=hi0ki&theme=github_dark_dimmed&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hi0ki&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=hi0ki&theme=gitdimmed&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+![](https://github-profile-trophy.vercel.app/?username=hi0ki&theme=gitdimmed&column=7)
 
 <hr>
 

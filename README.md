@@ -5,9 +5,8 @@ Hey there! I'm **El Mehdi El Ansary** - a 20-year-old code enthusiast at 1337 sc
 
 [![eel-ansa's 42 stats](https://badge.mediaplus.ma/landscapes/eel-ansa)](https://github.com/oakoudad/badge42)
 
-## 📬 Let's Connect
-<a href="https://www.linkedin.com/in/el-mehdi-el-ansary-253b05326/"><img src="https://img.shields.io/badge/Let's_Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mehdi.elansary@gmail.com"><img src="https://img.shields.io/badge/Drop_Me_A_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+## 📬 Reach Out To Me
+**[LinkedIn](https://www.linkedin.com/in/el-mehdi-el-ansary-253b05326/) • [Email](mailto:mehdi.elansary@gmail.com)**
 
 # 💻 Tech Arsenal
 <p>

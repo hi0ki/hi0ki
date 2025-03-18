@@ -5,6 +5,7 @@ I'm El Mehdi El Ansary.<br>A 20-year-old student at 1337 school in Morocco. I'm 
 
 [![eel-ansa's 42 stats](https://badge.mediaplus.ma/landscapes/eel-ansa)](https://github.com/oakoudad/badge42)<br>
 [![](https://visitcount.itsvg.in/api?id=hi0ki&icon=1&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=hi0ki&color=brightgreen)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hi_ki_00) 
@@ -38,7 +39,6 @@ I'm El Mehdi El Ansary.<br>A 20-year-old student at 1337 school in Morocco. I'm 
 ![](https://github-contributor-stats.vercel.app/api?username=hi0ki&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 ---
-![](https://komarev.com/ghpvc/?username=hi0ki&color=brightgreen)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>

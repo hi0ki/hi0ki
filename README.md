@@ -1,7 +1,7 @@
 <div align="center">
   
 # 💫 About Me
-Hey there! I'm **El Mehdi El Ansary** <br/> A 20-year-old student at 1337 school in Morocco, I'm focused on the study and practice of computer science.
+Hey there! I'm **El Mehdi El Ansary** <br/> A 21-year-old student at 1337 school in Morocco, I'm focused on the study and practice of computer science.
 
 [![eel-ansa's 42 stats](https://badge.mediaplus.ma/landscapes/eel-ansa)](https://github.com/oakoudad/badge42)
 

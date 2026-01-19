@@ -3,24 +3,19 @@
 <h1>El Mehdi El Ansary</h1>
 
 <p>
-  <strong>Full-Stack Developer</strong> • 42 Network (1337 School)  
-  Passionate about building reliable, performant web applications and understanding systems at a deeper level
+  <strong>Software Engineer</strong>  
+  Focused on DevOps, infrastructure automation, and reliable systems — with growing interest in AI and machine learning
 </p>
 
-<!-- Badges / Links -->
+<!-- 42 Badge only (if you still want to keep it for personal/portfolio reasons) -->
 <p>
   <a href="https://badge.mediaplus.ma/landscapes/eel-ansa">
-    <img src="https://badge.mediaplus.ma/landscapes/eel-ansa" alt="42 Statistics" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/el-mehdi-el-ansary-253b05326">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://badge.mediaplus.ma/landscapes/eel-ansa" alt="Profile Statistics" />
   </a>
 </p>
 
 <hr width="50%" />
 
-<!-- Tech Stack -->
 <h3>Technologies & Tools</h3>
 
 <p>
@@ -33,13 +28,13 @@
 </p>
 
 <p>
-  <!-- Frontend -->
+  <!-- Frontend (kept light since focus is shifting) -->
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 <p>
-  <!-- Backend & Data -->
+  <!-- Backend / Data -->
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white" alt="Prisma" />
@@ -47,7 +42,7 @@
 </p>
 
 <p>
-  <!-- DevOps & Others -->
+  <!-- DevOps core -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white" alt="NGINX" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
@@ -55,7 +50,6 @@
 
 <hr width="50%" />
 
-<!-- GitHub Stats -->
 <h3>GitHub Activity</h3>
 
 <p>
@@ -67,15 +61,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi0ki&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="140" />
 </p>
 
-<!-- Trophies - optional, but kept as they're quite professional when minimal -->
-<h3>Achievements</h3>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=hi0ki&theme=tokyonight&no-frame=true&margin-w=15&column=7&rank=SSS,SS,S,AAA,AA,A" alt="Trophies" />
-</p>
-
 <hr width="50%" />
 
-<!-- Connect -->
 <h3>Get in Touch</h3>
 
 <p>

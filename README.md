@@ -8,7 +8,7 @@
   with growing interest in AI and machine learning
 </p>
 
-<!-- Keep the badge if you like it (optional – remove the <p> if not wanted) -->
+<!-- Optional badge – remove the whole <p> if you don't want it -->
 <p>
   <a href="https://badge.mediaplus.ma/landscapes/eel-ansa">
     <img src="https://badge.mediaplus.ma/landscapes/eel-ansa" alt="Profile Statistics" />
@@ -33,7 +33,7 @@
 <p>
   <strong>Backend</strong><br>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" /> <!-- optional if you use it -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
 <!-- Databases -->
@@ -49,15 +49,38 @@
   <strong>DevOps & Infrastructure</strong><br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white" alt="NGINX" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<!-- Frontend (light, since not main focus) -->
+<!-- Frontend (light) -->
 <p>
   <strong>Frontend (basics)</strong><br>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
+
+<hr width="50%" />
+
+<h3>Monitoring in Action (Grafana + Prometheus)</h3>
+
+Here are some clean, modern dashboard examples I like working with — great for visualizing CPU, memory, Docker containers, app metrics, and more:
+
+Here are some examples of the kind of dashboards I build and explore with Grafana + Prometheus:
+
+<grok-card data-id="419134" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
+
+
+<grok-card data-id="4ea8ff" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
+
+
+<grok-card data-id="9bcb90" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
+
+These show real-time metrics, alerts, and beautiful visualizations — perfect for production-grade monitoring!
 
 <hr width="50%" />
 

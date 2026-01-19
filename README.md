@@ -1,78 +1,91 @@
 <div align="center">
-  
-# 👋 Hey, I'm El Mehdi El Ansary
 
-21-year-old software developer studying at **1337 School** (42 Network) in Morocco  
-Building full-stack applications and exploring the depths of computer science
+<h1>El Mehdi El Ansary</h1>
 
-[![eel-ansa's 42 stats](https://badge.mediaplus.ma/landscapes/eel-ansa)](https://github.com/oakudad/badge42)
-
-<a href="https://linkedin.com/in/el-mehdi-el-ansary-253b05326">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Database
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hi0ki&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=hi0ki&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+<p>
+  <strong>Full-Stack Developer</strong> • 42 Network (1337 School)  
+  Passionate about building reliable, performant web applications and understanding systems at a deeper level
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi0ki&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170"/>
+<!-- Badges / Links -->
+<p>
+  <a href="https://badge.mediaplus.ma/landscapes/eel-ansa">
+    <img src="https://badge.mediaplus.ma/landscapes/eel-ansa" alt="42 Statistics" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/el-mehdi-el-ansary-253b05326">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
----
+<hr width="50%" />
 
-## 🏆 Achievements
+<!-- Tech Stack -->
+<h3>Technologies & Tools</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hi0ki&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SSS,SS,S,AAA,AA,A" alt="Trophies"/>
+<p>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
 </p>
 
----
+<p>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
 
-## 📫 Let's Connect
+<p>
+  <!-- Backend & Data -->
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+</p>
 
-<a href="https://linkedin.com/in/el-mehdi-el-ansary-253b05326">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p>
+  <!-- DevOps & Others -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white" alt="NGINX" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hi0ki&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+<hr width="50%" />
+
+<!-- GitHub Stats -->
+<h3>GitHub Activity</h3>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=hi0ki&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" height="165" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=hi0ki&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi0ki&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="140" />
+</p>
+
+<!-- Trophies - optional, but kept as they're quite professional when minimal -->
+<h3>Achievements</h3>
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=hi0ki&theme=tokyonight&no-frame=true&margin-w=15&column=7&rank=SSS,SS,S,AAA,AA,A" alt="Trophies" />
+</p>
+
+<hr width="50%" />
+
+<!-- Connect -->
+<h3>Get in Touch</h3>
+
+<p>
+  <a href="https://linkedin.com/in/el-mehdi-el-ansary-253b05326">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=hi0ki&color=6e5494&style=flat-square&label=Profile+views" alt="Profile views" />
 </p>
 
 </div>

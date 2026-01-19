@@ -1,9 +1,15 @@
 <div align="center">
   
-# 💫 About Me
-Hey there! I'm **El Mehdi El Ansary** <br/> A 21-year-old student at 1337 school in Morocco, I'm focused on the study and practice of computer science.
+# 👋 Hey, I'm El Mehdi El Ansary
 
-[![eel-ansa's 42 stats](https://badge.mediaplus.ma/landscapes/eel-ansa)](https://github.com/oakoudad/badge42)
+21-year-old software developer studying at **1337 School** (42 Network) in Morocco  
+Building full-stack applications and exploring the depths of computer science
+
+[![eel-ansa's 42 stats](https://badge.mediaplus.ma/landscapes/eel-ansa)](https://github.com/oakudad/badge42)
+
+<a href="https://linkedin.com/in/el-mehdi-el-ansary-253b05326">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 ---
 

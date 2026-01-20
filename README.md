@@ -48,6 +48,7 @@
 <p>
   <strong>DevOps & Infrastructure</strong><br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white" alt="Portainer" />
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white" alt="NGINX" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana" />
@@ -61,26 +62,34 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
+<!-- File Transfer -->
+<p>
+  <strong>File Transfer & Protocols</strong><br>
+  <img src="https://img.shields.io/badge/FTP-FF6600?style=flat&logo=ftp&logoColor=white" alt="FTP" />
+</p>
+
 <hr width="50%" />
 
-<h3>Monitoring in Action (Grafana + Prometheus)</h3>
+<h3>Monitoring & Management in Action</h3>
 
-Here are some clean, modern dashboard examples I like working with — great for visualizing CPU, memory, Docker containers, app metrics, and more:
+Here are some clean, modern examples of tools I work with — Portainer for Docker/container management, Grafana + Prometheus for metrics visualization, and FTP-style file transfers:
 
-Here are some examples of the kind of dashboards I build and explore with Grafana + Prometheus:
-
-<grok-card data-id="419134" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+<grok-card data-id="d11da0" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
 
 
-<grok-card data-id="4ea8ff" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+<grok-card data-id="3cbe25" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
 
 
-<grok-card data-id="9bcb90" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+<grok-card data-id="13ffd4" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
 
-These show real-time metrics, alerts, and beautiful visualizations — perfect for production-grade monitoring!
+
+<grok-card data-id="8fa5fb" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
+
+These showcase intuitive UIs for container oversight, real-time dashboards, and secure file handling — essential for production environments!
 
 <hr width="50%" />
 

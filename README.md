@@ -55,6 +55,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 </p>
 
+<!-- Networking -->
+<p>
+  <strong>Networking & Protocols</strong><br>
+  <img src="https://img.shields.io/badge/SSH-000000?style=flat&logo=openssh&logoColor=white" alt="SSH" />
+  <img src="https://img.shields.io/badge/TCP%2FUDP-4D4D4D?style=flat&logoColor=white" alt="TCP/UDP" />
+  <img src="https://img.shields.io/badge/HTTP-FF6600?style=flat&logo=http&logoColor=white" alt="HTTP" />
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=flat&logoColor=white" alt="REST API" />
+</p>
+
 <!-- Frontend (light) -->
 <p>
   <strong>Frontend (basics)</strong><br>
@@ -70,23 +79,50 @@
 
 <hr width="50%" />
 
+<h3>Networking & Protocols in Focus</h3>
+
+Core building blocks I work with daily — secure access via SSH, reliable transport with TCP/UDP, and modern API design over HTTP/REST:
+
+<grok-card data-id="ef0756" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
+
+
+<grok-card data-id="22ab68" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
+
+
+<grok-card data-id="ad5a91" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
+
+
+<grok-card data-id="e23b06" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
+
+
+<grok-card data-id="c0f641" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
+
+These visuals represent secure terminals, protocol stacks, and typical REST request/response flows — essential for backend reliability and infrastructure management!
+
+<hr width="50%" />
+
 <h3>Monitoring & Management in Action</h3>
 
 Here are some clean, modern examples of tools I work with — Portainer for Docker/container management, Grafana + Prometheus for metrics visualization, and FTP-style file transfers:
 
-<grok-card data-id="d11da0" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+<grok-card data-id="9d2d80" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
 
 
-<grok-card data-id="3cbe25" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+<grok-card data-id="837085" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
 
 
-<grok-card data-id="13ffd4" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+<grok-card data-id="edadb0" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
 
 
-<grok-card data-id="8fa5fb" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+<grok-card data-id="29b1b9" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
 
 These showcase intuitive UIs for container oversight, real-time dashboards, and secure file handling — essential for production environments!

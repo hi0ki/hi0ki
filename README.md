@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
-<!-- DevOps -->
+<!-- DevOps & Infrastructure -->
 <p>
   <strong>DevOps & Infrastructure</strong><br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
@@ -52,6 +52,7 @@
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white" alt="NGINX" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/FTP-FF6600?style=flat&logo=ftp&logoColor=white" alt="FTP" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 </p>
 
@@ -71,62 +72,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-<!-- File Transfer -->
-<p>
-  <strong>File Transfer & Protocols</strong><br>
-  <img src="https://img.shields.io/badge/FTP-FF6600?style=flat&logo=ftp&logoColor=white" alt="FTP" />
-</p>
-
-<hr width="50%" />
-
-<h3>Networking & Protocols in Focus</h3>
-
-Core building blocks I work with daily — secure access via SSH, reliable transport with TCP/UDP, and modern API design over HTTP/REST:
-
-<grok-card data-id="ef0756" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
-
-
-<grok-card data-id="22ab68" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
-
-
-<grok-card data-id="ad5a91" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
-
-
-<grok-card data-id="e23b06" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
-
-
-<grok-card data-id="c0f641" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
-
-These visuals represent secure terminals, protocol stacks, and typical REST request/response flows — essential for backend reliability and infrastructure management!
-
-<hr width="50%" />
-
-<h3>Monitoring & Management in Action</h3>
-
-Here are some clean, modern examples of tools I work with — Portainer for Docker/container management, Grafana + Prometheus for metrics visualization, and FTP-style file transfers:
-
-<grok-card data-id="9d2d80" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
-
-
-<grok-card data-id="837085" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
-
-
-<grok-card data-id="edadb0" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
-
-
-<grok-card data-id="29b1b9" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
-
-These showcase intuitive UIs for container oversight, real-time dashboards, and secure file handling — essential for production environments!
-
 <hr width="50%" />
 
 <h3>GitHub Activity</h3>
@@ -140,18 +85,3 @@ These showcase intuitive UIs for container oversight, real-time dashboards, and 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi0ki&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="140" />
 </p>
 
-<hr width="50%" />
-
-<h3>Get in Touch</h3>
-
-<p>
-  <a href="https://linkedin.com/in/el-mehdi-el-ansary-253b05326">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=hi0ki&color=6e5494&style=flat-square&label=Profile+views" alt="Profile views" />
-</p>
-
-</div>

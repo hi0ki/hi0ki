@@ -1,39 +1,45 @@
-<h1 align="center">Hi, I'm El Mehdi El Ansary</h1>
+<h1 align="center">El Mehdi El Ansary</h1>
 
 <p align="center">
-  Software Engineer • Backend • DevOps<br/>
-  Building reliable systems, scalable APIs, and automation pipelines.
+  <b>Software Engineer • Backend • DevOps</b><br/>
+  Building scalable systems, reliable APIs, and automation-driven infrastructure
+</p>
+
+<p align="center">
+  <a href="mailto:mehdi.elansary@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">💼 LinkedIn</a> •
+  <a href="https://github.com/hi0ki">🐙 GitHub</a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-- Backend & DevOps engineer focused on system design and infrastructure
-- Strong interest in distributed systems, cloud, and automation
-- Currently exploring AI/ML integration in backend systems
-- Passionate about clean architecture and performance optimization
+- Backend & DevOps engineer focused on building production-ready systems  
+- Interested in distributed systems, cloud infrastructure, and automation  
+- Comfortable working across backend, databases, and deployment pipelines  
+- Always improving system design and scalability thinking  
 
 ---
 
 ## ⚙️ Tech Stack
 
-### Languages
+**Languages**  
 C • C++ • TypeScript • JavaScript • Python  
 
-### Backend
+**Backend**  
 Node.js • NestJS • REST APIs • Microservices  
 
-### Databases
+**Databases**  
 PostgreSQL • Redis • Prisma  
 
-### DevOps & Infrastructure
-Docker • NGINX • Prometheus • Grafana • Git • Linux  
+**DevOps / Infra**  
+Docker • NGINX • Git • Prometheus • Grafana • Linux  
 
-### Networking
-HTTP • TCP/IP • SSH • DNS basics  
+**Networking**  
+HTTP • TCP/IP • SSH • DNS  
 
-### Frontend (basic familiarity)
+**Frontend (basic)**  
 React • Tailwind CSS  
 
 ---
@@ -51,15 +57,8 @@ React • Tailwind CSS
 
 ---
 
-## 🚀 Focus Right Now
+## 📬 Contact
 
-- Improving DevOps automation (CI/CD, Kubernetes basics)
-- Building production-ready backend systems
-- Learning scalable architecture patterns
-- Exploring AI integrations in backend services
-
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/hi0ki
+- 📧 Email: **mehdi.elansary@gmail.com**  
+- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN  
+- 🐙 GitHub: https://github.com/hi0ki

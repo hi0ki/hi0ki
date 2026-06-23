@@ -5,18 +5,18 @@
   Building scalable systems, reliable APIs, and automation-driven infrastructure
 </p>
 
-<p align="center">
+<p align="center" style="gap: 10px;">
 
 <a href="mailto:mehdi.elansary@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/hi0ki">
-  <img src="https://img.shields.io/badge/GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </p>

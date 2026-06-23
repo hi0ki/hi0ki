@@ -1,31 +1,33 @@
 <h1 align="center">El Mehdi El Ansary</h1>
 
 <p align="center">
-  <b>Software Engineer • Backend • DevOps</b><br/>
-  Building scalable systems, reliable APIs, and automation-driven infrastructure
+  Software Engineer • Backend • DevOps
 </p>
 
 <p align="center">
-  <a href="mailto:mehdi.elansary@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">💼 LinkedIn</a> •
-  <a href="https://github.com/hi0ki">🐙 GitHub</a>
+  Building scalable systems, reliable APIs, and automation-first infrastructure.
+</p>
+
+<p align="center">
+  📧 <a href="mailto:mehdi.elansary@gmail.com">mehdi.elansary@gmail.com</a> • 
+  💼 <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> • 
+  🐙 <a href="https://github.com/hi0ki">GitHub</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-- Backend & DevOps engineer focused on building production-ready systems  
-- Interested in distributed systems, cloud infrastructure, and automation  
-- Comfortable working across backend, databases, and deployment pipelines  
-- Always improving system design and scalability thinking  
+Backend & DevOps engineer focused on building production-ready systems with clean architecture and strong reliability.
+
+I work on backend systems, infrastructure, and automation, with a focus on performance and maintainability.
 
 ---
 
-## ⚙️ Tech Stack
+## Stack
 
 **Languages**  
-C • C++ • TypeScript • JavaScript • Python  
+C • C++ • Python • JavaScript • TypeScript  
 
 **Backend**  
 Node.js • NestJS • REST APIs • Microservices  
@@ -33,8 +35,8 @@ Node.js • NestJS • REST APIs • Microservices
 **Databases**  
 PostgreSQL • Redis • Prisma  
 
-**DevOps / Infra**  
-Docker • NGINX • Git • Prometheus • Grafana • Linux  
+**DevOps & Infrastructure**  
+Docker • NGINX • Git • Linux • Prometheus • Grafana  
 
 **Networking**  
 HTTP • TCP/IP • SSH • DNS  
@@ -44,21 +46,13 @@ React • Tailwind CSS
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hi0ki&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hi0ki&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hi0ki&show_icons=true&theme=graywhite&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hi0ki&theme=graywhite&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi0ki&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi0ki&layout=compact&theme=graywhite&hide_border=true" height="140"/>
 </p>
-
----
-
-## 📬 Contact
-
-- 📧 Email: **mehdi.elansary@gmail.com**  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN  
-- 🐙 GitHub: https://github.com/hi0ki

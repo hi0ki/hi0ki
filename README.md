@@ -6,20 +6,17 @@
 </p>
 
 <p align="center">
-  a {
-    text-decoration: none;
-}
-<a href="mailto:mehdi.elansary@gmail.com">
-<img src="https://img.shields.io/badge/Email-24283B?style=for-the-badge&logo=gmail&logoColor=BB9AF7">
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-24283B?style=for-the-badge&logo=linkedin&logoColor=BB9AF7">
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/hi0ki">
-<img src="https://img.shields.io/badge/GitHub-24283B?style=for-the-badge&logo=github&logoColor=BB9AF7">
-</a>
+  <a href="mailto:mehdi.elansary@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7A5AF8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B27"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-7A5AF8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B27"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/hi0ki">
+    <img src="https://img.shields.io/badge/GitHub-7A5AF8?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1B27"/>
+  </a>
 </p>
 
 ---

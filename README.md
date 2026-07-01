@@ -49,10 +49,10 @@ React • Tailwind CSS
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hi0ki&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hi0ki&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hi0ki&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi0ki&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi0ki&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="140"/>
 </p>

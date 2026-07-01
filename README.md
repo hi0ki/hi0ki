@@ -6,11 +6,14 @@
 </p>
 
 <p align="center">
-<a href="mailto:mehdi.elansary@gmail.com" style="text-decoration:none">
+  a {
+    text-decoration: none;
+}
+<a href="mailto:mehdi.elansary@gmail.com">
 <img src="https://img.shields.io/badge/Email-24283B?style=for-the-badge&logo=gmail&logoColor=BB9AF7">
 </a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" style="text-decoration:none">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-24283B?style=for-the-badge&logo=linkedin&logoColor=BB9AF7">
 </a>
 &nbsp;&nbsp;

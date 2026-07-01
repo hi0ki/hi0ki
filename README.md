@@ -4,11 +4,11 @@
   <b>Software Engineer • Backend • DevOps</b><br/>
   Building scalable systems, reliable APIs, and automation-driven infrastructure
 </p>
-
+<p align="center">
 [![Email](https://img.shields.io/badge/Email-24283B?style=for-the-badge&logo=gmail&logoColor=BB9AF7)](mailto:mehdi.elansary@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-24283B?style=for-the-badge&logo=linkedin&logoColor=BB9AF7)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-24283B?style=for-the-badge&logo=github&logoColor=BB9AF7)](https://github.com/hi0ki)
-
+</p>
 ---
 
 ## 👨‍💻 About Me
